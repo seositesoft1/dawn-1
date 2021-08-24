@@ -2196,5 +2196,7 @@ details-disclosure > details {
 }
 .announcement-bar {
   background-color: blue;
+}
+.announcement-bar p{
   color: white;
 }
